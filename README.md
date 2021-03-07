@@ -1,4 +1,5 @@
 # ramdiskcreator
+![alt text](https://github.com/codeleo07/ramdiskcreator]/blob/main/docs/ram-pngrepo-com.png?raw=true)
  A simple RAM disk creator for Ubuntu-based Linux distributions. It's an easy setup wizard, which is Python-based and it's very simple.
 
  ## Installation
