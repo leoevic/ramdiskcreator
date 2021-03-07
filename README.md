@@ -8,4 +8,4 @@
  First, you need to type in the size of the RAMDISK in MB. Warning: Don't use more than the half of your total RAM, or else the system could be unstable.
  Then you need to enter the name of the RAMDISK.
 
- After the setup process, the RAMDISK will be generated in the folder /mnt/ramdisk. The RAMDISK will be formatted with the tmpfs filesystem. Warning: Data in the RAMDISK will be lost if you restart or shutdown your computer.
+ After the setup process, the RAMDISK will be generated in the folder /mnt/[NAME]. The RAMDISK will be formatted with the tmpfs filesystem. Warning: Data in the RAMDISK will be lost if you restart or shutdown your computer.
