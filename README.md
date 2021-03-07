@@ -1,5 +1,5 @@
 # ramdiskcreator
- A simple RAM disk creator for Ubuntu-based Linux distributions. It's an easy setup wizard, which is Python-based and very simple.
+ A simple RAM disk creator for Ubuntu-based Linux distributions. It's an easy setup wizard, which is Python-based and it's very simple.
 
  ## Installation
  The installation process is very easy. You just need to download the file and save it. You open a terminal and navigate to the location of the script.
